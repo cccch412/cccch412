@@ -22,9 +22,9 @@ I am an undergraduate student majoring in Data Science and Big Data Technology a
 
 In my spare time, I keep practicing yoga to build concentration and patience while stretching my body. I also love traveling and immersing myself in nature to experience landscapes and local cultures from different places.
 <p align="center">
-<img src="photo1.png" width="280"/>
-<img src="photo2.png" width="280"/>
-<img src="photo3.png" width="280"/>
+<img src="photo1.png" width="240"/>
+<img src="photo2.png" width="240"/>
+<img src="photo3.png" width="240"/>
 </p>
 
 ## 🔭Acquired Knowledge and Competencies
