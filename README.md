@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 > Fuzhou University | Data Science and Big Data Technology
 
 <p align="center">
-<img src="photo1.jpg" width="280"/>
-<img src="photo2.jpg" width="280"/>
-<img src="photo3.jpg" width="280"/>
+<img src="photo1.png" width="280"/>
+<img src="photo2.png" width="280"/>
+<img src="photo3.png" width="280"/>
 </p>
 
 
