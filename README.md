@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 #  👋你好，我是陈瑀涵
 > Fuzhou University | Data Science and Big Data Technology
 
-<p align="center">
-<img src="photo1.png" width="280"/>
-<img src="photo2.png" width="280"/>
-<img src="photo3.png" width="280"/>
-</p>
 
 
 ## 💬Self-introduction
 I am an undergraduate student majoring in Data Science and Big Data Technology at Fuzhou University.
 
 In my spare time, I keep practicing yoga to build concentration and patience while stretching my body. I also love traveling and immersing myself in nature to experience landscapes and local cultures from different places.
-
+<p align="center">
+<img src="photo1.png" width="280"/>
+<img src="photo2.png" width="280"/>
+<img src="photo3.png" width="280"/>
+</p>
 ## 🔭Acquired Knowledge and Competencies
 I have basic programming skills in Python and am familiar with C language. I understand Git version control, fundamental database concepts, and software engineering workflows. I can write code with VS Code, perform basic data processing, and have experience training simple machine learning models with Scikit-learn. I am also capable of writing basic project documentation.
 
