@@ -26,6 +26,7 @@ In my spare time, I keep practicing yoga to build concentration and patience whi
 <img src="photo2.png" width="280"/>
 <img src="photo3.png" width="280"/>
 </p>
+
 ## 🔭Acquired Knowledge and Competencies
 I have basic programming skills in Python and am familiar with C language. I understand Git version control, fundamental database concepts, and software engineering workflows. I can write code with VS Code, perform basic data processing, and have experience training simple machine learning models with Scikit-learn. I am also capable of writing basic project documentation.
 
