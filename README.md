@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 #  👋你好，我是陈瑀涵
 > Fuzhou University | Data Science and Big Data Technology
 
-![Landscape I like](photo1.png)
+![Landscape I like](photo1.png)(photo2.png)(photo3.png)
 
 ## 💬Self-introduction
 I am an undergraduate student majoring in Data Science and Big Data Technology at Fuzhou University.
